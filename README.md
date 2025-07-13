@@ -47,6 +47,11 @@ Enter output file name (with .png): openai_qr.png
 
 QR code saved as openai_qr.png
 
+<img width="978" height="516" alt="1" src="https://github.com/user-attachments/assets/ce1f4cb9-c400-4c63-a81a-61c5b7ec3685" />
+
+<img width="1007" height="514" alt="2" src="https://github.com/user-attachments/assets/27c9c1ba-88cd-40e5-add3-a5ac019e3e56" />
+
+
 License
 
 This project is licensed under the MIT License.
