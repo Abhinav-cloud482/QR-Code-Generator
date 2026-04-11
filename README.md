@@ -71,6 +71,16 @@ QR code saved as openai_qr.png
 
 <img width="1007" height="514" alt="2" src="https://github.com/user-attachments/assets/27c9c1ba-88cd-40e5-add3-a5ac019e3e56" />
 
+# Updated 1
+
+<img width="403" height="383" alt="Update 1" src="https://github.com/user-attachments/assets/a03e2f99-611d-4d8a-8da2-ffac13a82a3a" />
+
+# Updated 2
+
+<img width="447" height="528" alt="Updated 2" src="https://github.com/user-attachments/assets/40966420-4c22-4ba7-bb5e-618db83a37ed" />
+<img width="459" height="535" alt="Updated 2 Output 2" src="https://github.com/user-attachments/assets/d403ffa2-4627-4595-99ff-9dd05a8ff6f1" />
+<img width="364" height="181" alt="Updated 2 Outpput" src="https://github.com/user-attachments/assets/27d007a1-38fb-4472-8316-faabbfa4984e" />
+<img width="370" height="370" alt="Openai" src="https://github.com/user-attachments/assets/f2d47626-8431-4060-8868-86e54632da01" />
 
 
 ## Versions
