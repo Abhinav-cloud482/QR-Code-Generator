@@ -1,45 +1,65 @@
-# QR-Code-Generator
-
-QR Code Generator
+# Advanced QR Code Generator (GUI + Batch + PDF Export)
 
 This is a simple Python script that generates a QR code from user-provided data (text or URL) and saves it as an image file.
 
-Features
+## Features
 
-- Generates QR codes from any text or URL
+- Generate QR codes from text or URLs
+- GUI-based interface (Tkinter)
+- Customize colors (foreground & background)
+- Add logo to QR codes
+- Save QR codes as PNG/JPG
+- Auto-generate filenames with timestamps
+- Export QR codes to PDF
+- Bulk QR generation from CSV/JSON
+- Drag-and-drop support (limited)
+- Preview before saving
 
-- High error correction level (H)
+## Requirements
 
-- Customizable output filename
-
-- Saves QR codes as PNG images
-
-Requirements
 - Python 3.x
-
 - qrcode
+- Pillow
+- fpdf
 
-- Pillow (installed automatically with qrcode)
+## Installation
 
-Installation
+Install the required package using pip :-
 
-Install the required package using pip :
+```
+pip install qrcode[pil] fpdf
+```
 
-pip install qrcode[pil]
+## Usage
 
-Usage
+Run the application :-
 
-Run the script from the command line :
-
+```
 python qr_generator.py
 
-You'll be prompted to enter :
+Then:
+- Enter text/URL
+- Choose output file
+- Customize colors
+- (Optional) Add logo
+- Click "Generate QR Code"
+```
 
-- The data or URL to encode
+### Bulk QR Generation
 
-- The output file name (e.g., mycode.png)
+- Import CSV or JSON file
 
-Example
+- Automatically generates multiple QR codes
+
+### Export to PDF
+
+- Generate QR and save directly as a PDF file
+
+### Logo Support
+
+- Add a logo at the center of the QR code
+
+## Example
 
 Enter the data/URL to encode in QR: https://openai.com
 
@@ -52,10 +72,19 @@ QR code saved as openai_qr.png
 <img width="1007" height="514" alt="2" src="https://github.com/user-attachments/assets/27c9c1ba-88cd-40e5-add3-a5ac019e3e56" />
 
 
-License
+
+## Versions
+
+- v1 : CLI-based QR generator
+
+- v2 : GUI with customization
+
+- v3 : Advanced features (logo, PDF, batch processing)
+
+## License
 
 This project is licensed under the MIT License.
 
-Author
+## Author
 
 Abhinav Dixit
